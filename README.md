@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BioUnit
+- 👋 Hi, I’m Andrei
 - 👀 I’m interested in Robotics, IoT and implants
 - 💞️ I desing and create hardware and software for robots
 - 📫 How to reach me andrei.mzv@gmail.com , https://www.linkedin.com/in/andrei-mukhametzianov-b90b84210/
